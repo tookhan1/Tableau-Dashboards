@@ -1,3 +1,20 @@
+
+# Tableau-Dashboards
+
+Here is the link to my interactive Tableau Public profile to showcase my proficiency. This is a project demonstrating my skill and knowledge with Tableau. Use link for interactive elements. 
+
+https://public.tableau.com/app/profile/osama.khan2673/vizzes
+
+
+# Airbnb Dashboard
+
+![image](https://github.com/tookhan1/Tableau-Dashboards/assets/124211017/44da10b1-a155-42d3-bfec-259141f4bd33)
+
+# Profit Dashboard
+
+![image](https://github.com/tookhan1/Tableau-Dashboards/assets/124211017/438510b0-0c40-484f-9168-00e44a42129f)
+
+
 # Tableau Competency
 ## Here is what my dashboards will demonstrate:
 
@@ -27,21 +44,3 @@
 * Create Parameter
 * Create Sales and profit forecast
 * Use parameters as filters
-
-
-# Tableau-Dashboards
-
-Here is the link to my interactive Tableau Public profile to showcase my proficiency. This is a project demonstrating my skill and knowledge with Tableau. Use link for interactive elements. 
-
-https://public.tableau.com/app/profile/osama.khan2673/vizzes
-
-
-# Airbnb Dashboard
-
-![image](https://github.com/tookhan1/Tableau-Dashboards/assets/124211017/44da10b1-a155-42d3-bfec-259141f4bd33)
-
-# Profit Dashboard
-
-![image](https://github.com/tookhan1/Tableau-Dashboards/assets/124211017/438510b0-0c40-484f-9168-00e44a42129f)
-
-
